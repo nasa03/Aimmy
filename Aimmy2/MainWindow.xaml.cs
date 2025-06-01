@@ -858,8 +858,8 @@ namespace Aimmy2
             AddSeparator(CreditsPanel);
 
             AddTitle(CreditsPanel, "Model Creators");
-            AddCredit(CreditsPanel, "Babyhamsta", "UniversalV4, Phantom Forces");
-            AddCredit(CreditsPanel, "Natdog400", "AIO V2, V7");
+            AddCredit(CreditsPanel, "Babyhamsta", "Universal, Phantom Forces");
+            AddCredit(CreditsPanel, "Natdog400", "AIO");
             AddCredit(CreditsPanel, "Themida", "Arsenal, Strucid, Bad Business, Blade Ball, etc.");
             AddCredit(CreditsPanel, "Hogthewog", "Da Hood, FN, etc.");
             AddSeparator(CreditsPanel);
